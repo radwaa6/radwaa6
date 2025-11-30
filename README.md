@@ -47,3 +47,4 @@ Tip: To add demo GIFs later, place them under assets/gifs/ (e.g., assets/gifs/pr
 - Email: rdwym39@gmail.com
 
 ---
+![GitHub Snake Dark](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/9888c42dbee21cca1a9f9ef91c6144c8a0232e33/github-snake-dark.svg)
