@@ -16,7 +16,6 @@
 - IoT & Cloud: AWS IoT Core, MQTT, REST APIs  
 - Robotics & Controls: Sensors, Actuators, Motor control, Path planning  
 - Software Practices: Testing, Debugging, Git, CI  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" align="center" />
 
 ---
 
