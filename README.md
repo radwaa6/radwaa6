@@ -17,21 +17,6 @@
 - IoT & Cloud: AWS IoT Core, MQTT, REST APIs  
 - Robotics & Controls: Sensors, Actuators, Motor control, Path planning  
 - Software Practices: Testing, Debugging, Git, CI
-
----
-
-## 📌 Featured Projects (Pinned / Highlights)
-- **Smart Mobility V2X System** — Graduation project integrating hardware, firmware, and cloud for connected vehicles.  
-  Repo: https://github.com/radwaa6/smart-mobility-v2x
-
-- **Obstacle-Avoiding Robot** — Autonomous robot with ultrasonic/LiDAR sensing, PID motor control, and obstacle avoidance.  
-  Repo: https://github.com/radwaa6/obstacle-robot
-
-- **IoT Smart City Prototypes** — Sensor-based prototypes for air-quality monitoring, smart parking simulation, and remote telemetry dashboards (uses ESP32 + AWS IoT).  
-  Repo: https://github.com/radwaa6/iot-smart-city
-
-Tip: To add demo GIFs later, place them under assets/gifs/ (e.g., assets/gifs/project_demo.gif) and reference them in the README.
-
 ---
 
 ## 🌱 Currently Learning
