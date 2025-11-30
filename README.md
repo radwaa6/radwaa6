@@ -1,4 +1,6 @@
 # Hi there 👋 I'm Radwa Mohamed Shokry
+![88862734-4903af80-d201-11ea-968b-9c939d88a37c](https://github.com/user-attachments/assets/1cd407e3-9bca-4b7f-9a6f-291709a0a930)
+
 
 🎓 Electronics & Communications Engineer | Sohag University, Class of 2025  
 🚀 Passionate about Embedded Systems, IoT, and Smart Mobility (V2X)  
