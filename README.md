@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Radwa Mohamed Shokry
+<img align="right" src="https://github.com/user-attachments/assets/1cd407e3-9bca-4b7f-9a6f-291709a0a930" width="250" />
+
 🎓 Electronics & Communications Engineer | Sohag University, Class of 2025  
 🚀 Passionate about Embedded Systems, IoT, and Smart Mobility (V2X)  
 💻 Skilled in C, C++, Embedded C, Python, SQL, and microcontroller programming (STM32, AVR, ESP32, Raspberry Pi)  
 🌐 Experienced in cloud integration (AWS IoT Core), robotics, and real-time applications  
 🏆 Awards: Best Member Award (GDSC Robotics), 3rd Place Robotics Competition, NASA Space Apps participant  
-
-<img align="right" src="https://github.com/user-attachments/assets/1cd407e3-9bca-4b7f-9a6f-291709a0a930" width="250" />
 
 ---
 
