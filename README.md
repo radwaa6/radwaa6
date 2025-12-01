@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Radwa Mohamed Shokry
+# Hi there 👋 I'm Radwa Mohamed Shukri
 <img align="right" src="https://github.com/user-attachments/assets/1cd407e3-9bca-4b7f-9a6f-291709a0a930" width="250" />
 
 🎓 Electronics & Communications Engineer | Sohag University, Class of 2025  
